@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: blue-moon-lucky-wheel
+    runtime: node
+    plan: starter
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DB_PATH
+        value: /var/data/spins.sqlite
+      - key: ADMIN_KEY
+        generateValue: true
+      - key: HASH_SECRET
+        generateValue: true
+    disk:
+      name: blue-moon-data
+      mountPath: /var/data
+      sizeGB: 1

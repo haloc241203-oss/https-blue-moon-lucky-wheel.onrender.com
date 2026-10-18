@@ -1,0 +1,9 @@
+{
+  "name": "blue-moon-lucky-wheel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Blue Moon lucky wheel with server-side weighted prizes and one spin per email/phone",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20.0.0"},
+  "dependencies": {"express": "^4.21.2", "better-sqlite3": "^11.8.1", "dotenv": "^16.4.7"}
+}
