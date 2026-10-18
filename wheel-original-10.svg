@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000" role="img" aria-label="Vòng quay 10 ô Blue Moon">
+<defs><radialGradient id="gold"><stop stop-color="#fff9d8"/><stop offset=".64" stop-color="#f6d589"/><stop offset=".88" stop-color="#ce8730"/><stop offset="1" stop-color="#fff0b4"/></radialGradient><linearGradient id="pink" x2=".8" y2="1"><stop stop-color="#fff1f1"/><stop offset=".5" stop-color="#ffb2c6"/><stop offset="1" stop-color="#f2769c"/></linearGradient><linearGradient id="cream" x2=".7" y2="1"><stop stop-color="#fffef2"/><stop offset="1" stop-color="#ffe6b2"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5"/></filter></defs>
+<circle cx="500" cy="500" r="490" fill="#d18e32" stroke="#fff9df" stroke-width="12"/><circle cx="500" cy="500" r="472" fill="url(#gold)" stroke="#a65e20" stroke-width="5"/><circle cx="500" cy="500" r="449" fill="#fff4d7"/>
+<path d="M500 500 L362.49 76.78 A445 445 0 0 1 637.51 76.78 Z" fill="url(#pink)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(0 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="151" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">CHÚC BẠN</text>
+<text x="500" y="190" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">MAY MẮN</text>
+<text x="500" y="229" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">LẦN SAU</text>
+</g>
+<path d="M500 500 L637.51 76.78 A445 445 0 0 1 860.01 238.44 Z" fill="url(#cream)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(36 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="39" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">500.000Đ</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">TIỀN MẶT</text>
+</g>
+<path d="M500 500 L860.01 238.44 A445 445 0 0 1 945.00 500.00 Z" fill="url(#pink)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(72 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">TẶNG</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">BÁNH NGỌT</text>
+</g>
+<path d="M500 500 L945.00 500.00 A445 445 0 0 1 860.01 761.56 Z" fill="url(#cream)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(108 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">VOUCHER</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="39" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">10%</text>
+</g>
+<path d="M500 500 L860.01 761.56 A445 445 0 0 1 637.51 923.22 Z" fill="url(#pink)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(144 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="151" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">VOUCHER</text>
+<text x="500" y="190" font-family="Arial,DejaVu Sans,sans-serif" font-size="39" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">100.000Đ</text>
+<text x="500" y="229" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">HĐ TỪ 300K</text>
+</g>
+<path d="M500 500 L637.51 923.22 A445 445 0 0 1 362.49 923.22 Z" fill="url(#cream)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(180 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">TẶNG</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">KEM AICE</text>
+</g>
+<path d="M500 500 L362.49 923.22 A445 445 0 0 1 139.99 761.56 Z" fill="url(#pink)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(216 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">TẶNG</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">BÁNH NGỌT</text>
+</g>
+<path d="M500 500 L139.99 761.56 A445 445 0 0 1 55.00 500.00 Z" fill="url(#cream)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(252 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">VOUCHER</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="39" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">10%</text>
+</g>
+<path d="M500 500 L55.00 500.00 A445 445 0 0 1 139.99 238.44 Z" fill="url(#pink)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(288 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="151" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">VOUCHER</text>
+<text x="500" y="190" font-family="Arial,DejaVu Sans,sans-serif" font-size="39" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">100.000Đ</text>
+<text x="500" y="229" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">HĐ TỪ 300K</text>
+</g>
+<path d="M500 500 L139.99 238.44 A445 445 0 0 1 362.49 76.78 Z" fill="url(#cream)" stroke="#e3a04c" stroke-width="4"/>
+<g transform="rotate(324 500 500)">
+<path d="M500 388 C476 363 446 391 500 433 C554 391 524 363 500 388Z" fill="#e94e7f" stroke="#fff7dd" stroke-width="4"/>
+<text x="500" y="173" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">TẶNG</text>
+<text x="500" y="212" font-family="Arial,DejaVu Sans,sans-serif" font-size="29" font-weight="900" fill="#9b1e45" stroke="#fff0da" stroke-width="3.5" paint-order="stroke" text-anchor="middle">KEM AICE</text>
+</g>
+<circle cx="968.00" cy="500.00" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="957.77" cy="597.30" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="927.54" cy="690.35" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="878.62" cy="775.08" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="813.15" cy="847.79" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="734.00" cy="905.30" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="644.62" cy="945.09" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="548.92" cy="965.44" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="451.08" cy="965.44" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="355.38" cy="945.09" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="266.00" cy="905.30" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="186.85" cy="847.79" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="121.38" cy="775.08" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="72.46" cy="690.35" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="42.23" cy="597.30" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="32.00" cy="500.00" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="42.23" cy="402.70" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="72.46" cy="309.65" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="121.38" cy="224.92" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="186.85" cy="152.21" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="266.00" cy="94.70" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="355.38" cy="54.91" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="451.08" cy="34.56" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="548.92" cy="34.56" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="644.62" cy="54.91" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="734.00" cy="94.70" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="813.15" cy="152.21" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="878.62" cy="224.92" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="927.54" cy="309.65" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="957.77" cy="402.70" r="8" fill="#fffde9" stroke="#f7ba4e" stroke-width="2"/>
+<circle cx="500" cy="500" r="121" fill="url(#gold)" stroke="#aa651e" stroke-width="10"/><circle cx="500" cy="500" r="101" fill="#fff2d4" stroke="#fffdf4" stroke-width="5"/><path d="M500 477 C463 433 417 492 500 554 C583 492 537 433 500 477Z" fill="#ed3f75" stroke="#ad254f" stroke-width="5"/><text x="500" y="598" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#a33956" text-anchor="middle">BLUE MOON</text></svg>
